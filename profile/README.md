@@ -17,4 +17,4 @@ We also provide hands-on training and tailored support to help technical teams i
 
 **500+ projects delivered · DevOps expertise since 2011**
 
-[Explore our GitHub services](https://www.gologic.ca/en/partner/github/) · [Discover our AI & DevOps expertise](https://www.gologic.ca/en/ai-for-devops/) · [Visit Gologic's website](gologic.ca)
+[Explore our GitHub services](https://www.gologic.ca/en/partner/github/) · [Discover our AI & DevOps expertise](https://www.gologic.ca/en/ai-for-devops/) · [Visit Gologic's website](https://www.gologic.ca)
